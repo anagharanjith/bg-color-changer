@@ -39,3 +39,9 @@ body {
   background: var(--color);
   color: #fff;
 }
+@media(max-width: 767px){
+  body{
+    padding:15px;
+    /* padding-top: 50px; */
+  }
+}
